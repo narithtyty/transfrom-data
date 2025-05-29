@@ -1,0 +1,1 @@
+{"version":3,"file":"dataTransformer.d.ts","sourceRoot":"","sources":["../../src/services/dataTransformer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,eAAe,EAAkB,MAAM,UAAU,CAAC;AAEjE,qBAAa,eAAe;IACjB,0BAA0B,CAAC,KAAK,EAAE,IAAI,EAAE,GAAG,eAAe;IAqEjE,OAAO,CAAC,iBAAiB;IAczB,OAAO,CAAC,eAAe;CAI1B"}
